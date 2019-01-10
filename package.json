@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "name": "nasa-assignment",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "start": "tsc app && node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
